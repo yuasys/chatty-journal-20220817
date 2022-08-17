@@ -1,4 +1,5 @@
-# chatty-journal-yyyymmdd
+# chatty-journal-20220817
+
 
 <details>
 <summary><h2 style="display:inline">本日の活動</h2></summary>
